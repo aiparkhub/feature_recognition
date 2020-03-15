@@ -17,8 +17,8 @@
 <br>
 
 <div align="center" style="width:1920px;height:500px">
-<img src="resource/group_sign/aiparkhub_organization_sign.svg" width="450px" alt="AiParkHub-Organization" title="AiParkHub-Organization">
-<img src="resource/group_sign/geek_organization_sign.svg" width="450px" alt="Geek-Organization" title="Geek-Organization">
+<img src="resource/group_sign/aiparkhub_organization_sign.svg" width="550px" alt="AiParkHub-Organization" title="AiParkHub-Organization">
+<img src="resource/group_sign/geek_organization_sign.svg" width="550px" alt="Geek-Organization" title="Geek-Organization">
 </div><br>
 
 - **AIParkHub-Organization | 踏上AI浪潮 推动机器智能的极限**
