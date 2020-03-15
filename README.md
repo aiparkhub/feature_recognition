@@ -2,7 +2,7 @@
 
 <br>
 
-[![Document update time](https://img.shields.io/badge/Document%20Update%20Time-2020%2F03%2F15-darkorchid.svg?style=for-the-badge&logo=codacy&cacheSeconds=3600)]()
+[![Document update time](https://img.shields.io/badge/Document%20Update%20Time-2020%2F03%2F16-darkorchid.svg?style=for-the-badge&logo=codacy&cacheSeconds=3600)]()
 [![Document language-Simplified Chinese](https://img.shields.io/badge/Document%20Language-Simplified%20Chinese-coral.svg?style=for-the-badge&logo=microsoft-word&cacheSeconds=3600)](./README_CN.md)
 [![Document language-English](https://img.shields.io/badge/Document%20Language-English-mediumpurple.svg?style=for-the-badge&logo=microsoft-word&cacheSeconds=3600)](./README.md)
 [![Open source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-brightgreen.svg?style=for-the-badge&logo=conekta&cacheSeconds=3600)]()
