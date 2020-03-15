@@ -30,7 +30,7 @@
 
 ## 1. 前言
 #### 向所有科技领域的贡献者致敬
-> 你正在阅读的[feature_recognition]()是`AiParkHub-Organization`基于`Python`编程语言之上构建的强大人脸识别开源项目, 易上手的简洁人脸识别库配备了应用案例, 为你提供`Python`命令行工具提取、识别、操作人像面部;
+> 你正在阅读的[feature_recognition](https://github.com/aiparkhub/feature_recognition)是`AiParkHub-Organization`基于`Python`编程语言之上构建的强大人脸识别开源项目, 易上手的简洁人脸识别库配备了应用案例, 为你提供`Python`命令行工具提取、识别、操作人像面部;
 
 > 人脸识别是基于业内领先的C++开源库[dlib](http://dlib.net/)中的深度学习模型, 采集[Labeled Faces in the Wild](http://vis-www.cs.umass.edu/lfw/)人脸数据集进行测试, 准确率高达`99.38%`, 但对儿童和亚洲人像面部的识别准确率尚待提升;
 
@@ -200,7 +200,7 @@ $ python aiparkhub/core/models/faces_positioning/find_faces_in_picture_cnn.py --
 $ python aiparkhub/core/models/faces_positioning/find_faces_in_batches.py --cpus 4
 ```
 
-- [示例: 基于网络摄像头视频 添加 面部高斯模糊 (需安装OpenCV)](aiparkhub/core/models/faces_positioning/blur_faces_on_webcam.py)
+- [示例: 基于网络摄像头视频 面部高斯模糊 (需安装OpenCV)](aiparkhub/core/models/faces_positioning/blur_faces_on_webcam.py)
 > ![blur_faces_on_webcam](resource/example_photo/portrait_facial_positioning/blur_faces_on_webcam.jpg)
 ``` bash
 $ python aiparkhub/core/models/faces_positioning/blur_faces_on_webcam.py --cpus -1
@@ -220,7 +220,7 @@ $ python aiparkhub/core/models/faces_recognition/identify_and_draw_boxes_on_face
 $ python aiparkhub/core/models/faces_recognition/face_distance.py --cpus 4
 ```
 
-- [示例: 人脸识别 - fast_training_model & slow_training_model](aiparkhub/core/models/faces_recognition/feature_recognition.py)
+- [示例: 人脸识别 - 快速训练模型 & 慢速训练模型 (需安装OpenCV)](aiparkhub/core/models/faces_recognition/feature_recognition.py)
 > ![feature_recognition](resource/example_photo/portrait_facial_positioning/feature_recognition.jpg)
 ``` bash
 $ python aiparkhub/core/models/faces_recognition/feature_recognition.py --cpus -1
@@ -245,14 +245,14 @@ $ python aiparkhub/core/models/faces_recognition/feature_recognition_multiproces
 ```
 
 
-#### 4.1.4 相似内容的技术博客
+#### 4.1.4 推荐相似内容 技术博客
 - [Face recognition with OpenCV, Python, and deep learning](https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/) by Adrian Rosebrock
   - 主要内容: 如何实际使用;
 - [Face clustering with Python](https://www.pyimagesearch.com/2018/07/09/face-clustering-with-python/) by Adrian Rosebrock
   - 主要内容: 使用非监督学习算法实现将图片中的人像面部高斯模糊;
 
 
-#### 4.1.5 人脸识别的原理
+#### 4.1.5 人脸识别 原理
 如果你想更深入了解人脸识别这个黑箱的原理 [请点击阅读该技术博客](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78)
 
 
@@ -266,14 +266,14 @@ $ python aiparkhub/core/models/faces_recognition/feature_recognition_multiproces
 
 ## 7. 鸣谢
 - 非常感谢 [Davis King](https://github.com/davisking) ([@nulhom](https://twitter.com/nulhom)) 创建了`dlib`库, 提供了响应的人脸关键点检测和人脸编码相关的模型, 你可以查看 [blog post](http://blog.dlib.net/2017/02/high-quality-face-recognition-with-deep.html) 网页获取更多有关ResNet的信息;
-- 感谢每一个相关Python模块(包括`numpy`, `scipy`, `scikit-image`, `pillow`等)的贡献者;
+- 感谢每一个相关Python模块(包括: `numpy`, `scipy`, `scikit-image`, `pillow`等)的贡献者;
 - 感谢 [Cookiecutter](https://github.com/audreyr/cookiecutter) 和 [audreyr/cookiecutter-pypackage](https://github.com/audreyr/cookiecutter-pypackage) 项目模板, 使得Python的打包方式更容易接受;
 
 
 ## 8. 后记
 > 该项目仅仅是关于计算机视觉领域的起点, 该项目将持续研发, 后续还有很多技术梦想要实现, 让每一次的版本迭代都成为里程碑上的一颗铆钉;
 
-## 9. License open source agreement 开源协议
+## 9. 开源协议
  [Apache License Version 2.0](./LICENSE)
  
  ---------
