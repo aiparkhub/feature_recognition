@@ -7,7 +7,7 @@
 [![文档语言-英文](https://img.shields.io/badge/文档语言-英文-mediumpurple.svg?style=for-the-badge&logo=microsoft-word&cacheSeconds=3600)](./README.md)
 [![开放源码](https://img.shields.io/badge/开放源码-%E2%9D%A4-brightgreen.svg?style=for-the-badge&logo=conekta&cacheSeconds=3600)]()
 [![GitHub Repo Size in Bytes](https://img.shields.io/github/repo-size/aiparkhub/feature_recognition.svg?style=for-the-badge&logo=adobe-creative-cloud&cacheSeconds=3600)]()
-[![GitHub Release](https://img.shields.io/github/release/aiparkhub/DeepLearning-Project-Template.svg?style=for-the-badge&cacheSeconds=3600)]()
+[![GitHub Release](https://img.shields.io/github/release/aiparkhub/feature_recognition.svg?style=for-the-badge&cacheSeconds=3600)]()
 [![编程语言-Python](https://img.shields.io/badge/编程语言-Python-blue.svg?style=for-the-badge&logo=python&logoColor=white&cacheSeconds=3600)]()
 [![PyPI](https://img.shields.io/badge/PyPI-coral.svg?style=for-the-badge&&logo=conekta&cacheSeconds=3600)](https://pypi.python.org/pypi/face_recognition)
 [![Github组织-AiParkHub](https://img.shields.io/badge/Github组织-aiparkhub-magenta.svg?style=for-the-badge&logo=microsoft-teams&logoColor=white&cacheSeconds=3600)](https://github.com/aiparkhub)
@@ -17,8 +17,8 @@
 <br>
 
 <div align="center" style="width:1920px;height:500px">
-<img src="resource/group_sign/aiparkhub_organization_sign.svg" width="650px" alt="AiParkHub-Organization" title="AiParkHub-Organization">
-<img src="resource/group_sign/geek_organization_sign.svg" width="650px" alt="Geek-Organization" title="Geek-Organization">
+<img src="resource/group_sign/aiparkhub_organization_sign.svg" width="450px" alt="AiParkHub-Organization" title="AiParkHub-Organization">
+<img src="resource/group_sign/geek_organization_sign.svg" width="450px" alt="Geek-Organization" title="Geek-Organization">
 </div><br>
 
 - **AIParkHub-Organization | 踏上AI浪潮 推动机器智能的极限**
